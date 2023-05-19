@@ -1,0 +1,10 @@
+D:\Desktop\HRS\HRS\HRS\bin\Debug\HRS.exe.config
+D:\Desktop\HRS\HRS\HRS\bin\Debug\HRS.exe
+D:\Desktop\HRS\HRS\HRS\bin\Debug\HRS.pdb
+D:\Desktop\HRS\HRS\HRS\obj\Debug\HRS.csprojResolveAssemblyReference.cache
+D:\Desktop\HRS\HRS\HRS\obj\Debug\HRS.Properties.Resources.resources
+D:\Desktop\HRS\HRS\HRS\obj\Debug\HRS.csproj.GenerateResource.Cache
+D:\Desktop\HRS\HRS\HRS\obj\Debug\HRS.exe
+D:\Desktop\HRS\HRS\HRS\obj\Debug\HRS.pdb
+D:\Desktop\HRS\HRS\HRS\obj\Debug\HRS.Dashboard.resources
+D:\Desktop\HRS\HRS\HRS\obj\Debug\HRS.Auth.resources

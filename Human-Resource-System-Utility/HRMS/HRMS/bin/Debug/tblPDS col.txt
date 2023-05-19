@@ -1,0 +1,30 @@
+ID_pds 0
+last_name 1
+first_name 2
+middle_name 3
+suffix_name 4
+date_birth dtp1
+address_birth 5
+address_permanent 6
+address_present 7
+citizenship cb1
+status_civil cb2
+sex cb3
+type_blood cb4
+number_contact 8
+address_email 9
+number_tin 10
+number_gsis 11
+number_pagibig 12
+number_philhealth 13
+number_sss 14
+number_id 15
+designation 16
+grade_salary_increment 17
+base_salary 18
+link_pds 19
+link_saln 20
+
+"INSERT INTO tblPDS (last_name, first_name, middle_name, suffix_name, date_birth, address_birth, address_permanent, address_present, citizenship, status_civil, sex, type_blood, number_contact, address_email, number_tin, number_gsis, number_pagibig, number_philhealth, number_sss, number_id, designation, grade_salary_increment, base_salary, link_pds, link_saln) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)"
+
+"UPDATE tblPDS SET last_name = @last_name, first_name = @first_name, middle_name = @middle_name, suffix_name = @suffix_name, date_birth = @date_birth, address_birth = @address_birth, address_permanent = @address_permanent, address_present = @address_present, citizenship = @citizenship, status_civil = @status_civil, sex = @sex, type_blood = @type_blood, number_contact = @number_contact, address_email = @address_email, number_tin = @number_tin, number_gsis = @number_gsis, number_pagibig = @number_pagibig, number_philhealth = @number_philhealth, number_sss = @number_sss, number_id = @number_id, designation = @designation, grade_salary_increment = @grade_salary_increment, base_salary = @base_salary, link_pds = @link_pds, link_saln = @link_saln WHERE ID_pds =" + Global.GlobalVar1 + "";

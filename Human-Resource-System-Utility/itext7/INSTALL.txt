@@ -1,0 +1,3 @@
+Tools>NuGet Packet Manager>Packet Manager Console
+
+PM>Install-Package itext7 -Version 7.1.16

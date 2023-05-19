@@ -1,0 +1,3 @@
+Tools>NuGet Packet Manager>Packet Manager Console
+
+PM>Install-Package iTextSharp -Version 5.5.13.2
